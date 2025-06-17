@@ -1,0 +1,18 @@
+{
+    "users": [
+        {
+            "role": "\u0410\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u043e\u0440 \u0434\u043e\u0441\u0442\u0443\u043f\u0430",
+            "login": "guardianskk",
+            "password": "3eb3fe66b31e3b4d10fa70b5cad49c7112294af6ae4e476a1c405155d45aa121",
+            "secret": "5d2d3ceb7abe552344276d47d36a8175b7aeb250a9bf0bf00e850cd23ecf2e43",
+            "name": "\u0418\u0432\u0430\u043d\u043e\u0432 \u0418.\u0418."
+        },
+        {
+            "role": "\u0421\u043e\u0442\u0440\u0443\u0434\u043d\u0438\u043a \u0441\u043b\u0443\u0436\u0431\u044b \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438",
+            "login": "defendservice",
+            "password": "814d75eb9a4302909ccbbffc196e22a1f732263c6194a4991603fae272480159",
+            "secret": "a9d4034da07d8ef31db1cd4119b6a4552fdfbd19787e2848e71c8ee3b47703a7",
+            "name": "\u041f\u0435\u0442\u0440\u043e\u0432 \u041f.\u041f."
+        }
+    ]
+}
